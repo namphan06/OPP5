@@ -1,0 +1,6 @@
+INSERT INTO locations (location, pass) VALUES ('Ha Noi', '29-33,40')
+INSERT INTO locations (location, pass) VALUES ('Hai Phong', '15, 16')
+INSERT INTO locations (location, pass) VALUES ('An Giang', '67')
+INSERT INTO locations (location, pass) VALUES ('Da Nang', '43')
+INSERT INTO locations (location, pass) VALUES ('Thanh Hoa', '36')
+INSERT INTO locations (location, pass) VALUES ('Admin', 'admin')
